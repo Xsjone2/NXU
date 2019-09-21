@@ -345,7 +345,8 @@ figure {
 
 	<footer id="footer">
 		<section id="copyright">
-			<p style="font-size: 20px">© 2019 宁大生活信息助手</p>
+			<p style="font-size: 20px">© 2019 宁大生活信息助手	Made by Daniel </p>
+		
 		</section>
 	</footer>
 
