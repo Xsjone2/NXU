@@ -1,0 +1,56 @@
+div.nav-d{
+    width:500px;
+
+}
+
+.nav-d ul {
+    width:500px;
+    overflow:hidden;
+}
+
+.nav-d ul li {
+    width:100px;
+    float:left;
+    list-style:none;
+}
+
+.nav-d ul li a{
+   font-size: 18px;
+}
+
+
+.nav-d ul li ul {
+    display:none;
+}
+
+
+
+.nav-d ul li:hover ul {
+    display:block;
+    margin-left:0px;
+    padding-left:0px;
+}
+
+.nav-d ul li:hover a{
+    background-color:deepskyblue;
+}
+
+.nav-d ul li:hover ul li {
+    list-style:none;
+    float:none;
+    /*text-align:center;*/
+}
+
+.nav-d ul li:hover ul li a {
+    color: #FFFFFF;
+    display:inline-block;
+    height:30px;
+    width:96px;
+    background:deepskyblue;
+    text-decoration:none;
+    text-align:center;
+}
+
+.nav-d ul li:hover ul li:hover a {
+    background-color:aqua;
+}
