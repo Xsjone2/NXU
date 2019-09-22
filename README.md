@@ -6,4 +6,6 @@
 4.导入xiangu.sql脚本
 5.eclipse中导入项目
 6.部署到tomcat运行
-hello Daniel,I am xsj 
+hello Daniel,I am xsj
+modified by author Daniel
+
